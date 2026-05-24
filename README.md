@@ -95,9 +95,7 @@
  
 <p align="center">
   <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></a>
-  
-  <img width="30" height="1" src="https://raw.githubusercontent.com/gist/AlDanial/e90dd0f69666cef16ed712eb3ecfb4b3/raw/0d37e296a2ec647e813f0a5f6e80b62b78b87440/transparent_1x1.png" alt="" />
-  
+    &emsp;
   <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></a>
 </p>
 
