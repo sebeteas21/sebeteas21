@@ -17,8 +17,8 @@
 
 - :school: I am a `student` at Faculty of sistem engineer at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `System enginerr` 
-- :nerd_face: Always `learning new things`.
+- :student: I’m currently learning `System engineer` 
+- :nerd_face: ☝️ Always `learning new things and languages`.
 - :thinking: I’m currently open for a new `knowledge`
 - 📖 spanish (native), Eanglish (B2), Italian (A2)
 <br>
