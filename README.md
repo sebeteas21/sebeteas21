@@ -93,14 +93,14 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding: 0;">
       <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></a>
     </td>
-    <!-- Esta celda vacía genera exactamente los 30 píxeles de separación -->
-    <td width="30"></td>
-    <td>
+    <!-- Espacio invisible de 30px -->
+    <td width="30" style="border: none; padding: 0;"></td>
+    <td style="border: none; padding: 0;">
       <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></a>
     </td>
   </tr>
