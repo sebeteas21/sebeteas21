@@ -31,7 +31,7 @@
 <p align="center">
 	<a href="mailto:juansebas605@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/sebeteas21"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/3113953090"><img src="<i class="ci ci-whatsapp"></i>" alt="Whatsapp"/></a>
+	<a href="https://wa.me/3113953090"><img src="https://iconic-api.onrender.com/dark/whatsapp" width="64px" /></a>
 	<a href="https://www.instagram.com/lordfarquaad.23/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
