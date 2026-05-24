@@ -93,18 +93,13 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></a>
-    </td>
-    <!-- Espacio invisible de 30px -->
-    <td width="30" style="border: none; padding: 0;"></td>
-    <td style="border: none; padding: 0;">
-      <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></a>
+  
+  <img width="30" height="1" src="https://raw.githubusercontent.com/gist/AlDanial/e90dd0f69666cef16ed712eb3ecfb4b3/raw/0d37e296a2ec647e813f0a5f6e80b62b78b87440/transparent_1x1.png" alt="" />
+  
+  <a href="#"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></a>
+</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
