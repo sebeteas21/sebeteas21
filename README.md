@@ -20,6 +20,7 @@
 - :student: I’m currently learning `System enginerr` 
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `knowledge`
+- :languages: spanish (native), Eanglish (B2), Italian (A2)
 <br>
 
 
