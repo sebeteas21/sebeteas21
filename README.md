@@ -36,6 +36,8 @@
 	<a href="https://wa.me/3113953090"><img src="https://iconic-api.onrender.com/dark/whatsapp" width="64px" /></a>
 	&emsp;
 	<a href="https://www.instagram.com/lordfarquaad.23/"><img width="66px" alt="image" src="https://github.com/user-attachments/assets/507e7f66-75ec-4904-b31f-1d27f4435dee" /></a>
+	&emsp;
+	<a href="https://www.linkedin.com/in/juan-sebastian-cenon-quintero-1b3370411/?isSelfProfile=true"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/910c7fb4-1c88-49cf-8d97-68b56a948200"/></a>
 </p>
 
 
